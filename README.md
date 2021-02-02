@@ -19,7 +19,7 @@ https://play.grafana.org/d/2ZvPm55mWk/5-new-features-in-v6-2?orgId=1
 https://grafana.com/grafana/dashboards/4423  
 https://github.com/zaneclaes/network-traffic-metrics/blob/master/grafana.png  
 https://www.technicallywizardry.com/raspberry-pi-network-monitor/  
-
+https://github.com/briangann/grafana-datatable-panel  
 
 
 ## golang
